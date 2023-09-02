@@ -25,4 +25,8 @@ If you find this work useful in your method, you can cite the paper as below:
     year = {2022},
     pages={5723--5738},
 }
+We are reaching out to kindly request your support and contribution for this project. Your assistance is crucial in helping us achieve our goals and make a positive impact on in College Project of every student in all over the world.
+
+With your help, we can Create a more and more Projects for you all. Every contribution, no matter the size, brings us one step closer to better AI Application.
+
 
