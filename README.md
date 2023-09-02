@@ -13,3 +13,16 @@ Leveraging large-scale unlabeled speech and text data, we pre-train SpeechT5 to 
 
 Extensive evaluations show the superiority of the proposed SpeechT5 framework on a wide variety of spoken language processing tasks, including automatic speech recognition, speech synthesis, speech translation, voice conversion, speech enhancement, and speaker identification.
 
+## Citation
+## BibTeX:
+If you find this work useful in your method, you can cite the paper as below:
+
+    @inproceedings{ao-etal-2022-speecht5,
+    title = {{S}peech{T}5: Unified-Modal Encoder-Decoder Pre-Training for Spoken Language Processing},
+    author = {Ao, Junyi and Wang, Rui and Zhou, Long and Wang, Chengyi and Ren, Shuo and Wu, Yu and Liu, Shujie and Ko, Tom and Li, Qing and Zhang, Yu and Wei, Zhihua and Qian, Yao and Li, Jinyu and Wei, Furu},
+    booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+    month = {May},
+    year = {2022},
+    pages={5723--5738},
+}
+
